@@ -1,4 +1,6 @@
-# Hur du programmerar ett blinkprogram i Arduino
+# Programmera ett enkelt blinkprogram
+
+## Inledning
 Här kommer jag att gå igenom hur du kan programmera ett enkelt blinkprogram i Arduino.
 
 ## Underrubrik
