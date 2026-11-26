@@ -42,3 +42,7 @@ void loop() {
 
 - ```digitalWrite``` är kommandot som får dioden att lysa, D5/D6 talar om vilken port och LOW/HIGH talar om vilken diod som släcks och vilken som tänds
 - ```delay(2000);``` talar om att nästa kodrad ska fördröjas i två sekunder
+
+
+
+
