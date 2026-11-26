@@ -15,6 +15,8 @@ Här kommer jag visa en kort genomgång hur du gör ett enkelt blinkprogram för
 - Setup, funktion som körs en gång när kortet startar
 - Loop, arbetet som sker och snurrar om och om och om igen
 
+<img width="556" height="263" alt="Ny sketch i Arduido" src="https://github.com/user-attachments/assets/c0aece9f-9c70-46ac-9db5-fd568e364901" />
+
 ### Setup
 ```cpp
 void setup() {
@@ -40,3 +42,7 @@ void loop() {
 
 - ```digitalWrite``` är kommandot som får dioden att lysa, D5/D6 talar om vilken port och LOW/HIGH talar om vilken diod som släcks och vilken som tänds
 - ```delay(2000);``` talar om att nästa kodrad ska fördröjas i två sekunder
+
+
+
+
