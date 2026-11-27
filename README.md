@@ -15,7 +15,7 @@ Det här är en kort genomgång av hur du kan göra ett enkelt blinkprogram för
 - setup, funktion som körs en gång när kortet startar
 - loop, arbetet som sker och snurrar om och om och om igen
 
-<img width="556" height="263" alt="Ny sketch i Arduido" src="https://github.com/user-attachments/assets/c0aece9f-9c70-46ac-9db5-fd568e364901" />
+<img width="556" height="263" alt="Ny sketch i Arduino" src="https://github.com/user-attachments/assets/c0aece9f-9c70-46ac-9db5-fd568e364901" />
 
 ### Setup
 ```cpp
