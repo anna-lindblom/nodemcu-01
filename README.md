@@ -3,7 +3,7 @@
 ## Inledning
 Det här är en kort genomgång av hur du kan göra ett enkelt blinkprogram för att få två externa dioder att lysa växelvis i två sekunder vardera. I exemplet används ett NodeMCU-kretskort med en ESP8266 mikrocontroller och koden skrivs i Arduino IDE.
 
-## Vad är Arduido?
+## Vad är Arduino?
 - Plattform för att bygga och programmera små elektroniska saker
 - Tre delar, kretskort, program att skriva kod i (Arduino IDE) och ett programmeringsspråk
 - Enkel för nybörjare
@@ -11,7 +11,7 @@ Det här är en kort genomgång av hur du kan göra ett enkelt blinkprogram för
 - Används t.ex. till att tända och släcka lampor, läsa av sensorer
 - Här används Arduinos program och språk för att programmera ett NodeMCU-kort
 
-## Basfunktioner i Arduido
+## Basfunktioner i Arduino
 - setup, funktion som körs en gång när kortet startar
 - loop, arbetet som sker och snurrar om och om och om igen
 
