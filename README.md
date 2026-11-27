@@ -44,5 +44,9 @@ void loop() {
 - ```delay(2000);``` talar om att nästa kodrad ska fördröjas i två sekunder
 
 
+### Så här kan det se ut
+https://github.com/user-attachments/assets/590430d1-744c-4532-83ee-4f64718dce8a
+
+
 
 
