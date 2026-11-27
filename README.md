@@ -40,11 +40,11 @@ void loop() {
 }
 ```
 
-- ```digitalWrite``` är kommandot som får dioden att lysa, D5/D6 talar om vilken "pinne/port" och LOW/HIGH talar om vilken diod som släcks och vilken som tänds
+- ```digitalWrite``` är kommandot som får dioden att lysa, D5/D6 talar om vilken "pinne/port" och LOW/HIGH talar om vilken som ska vara på och vilken som är av
 - ```delay(2000);``` talar om att nästa kodrad ska fördröjas i två sekunder
 
 
-### Så här kan det se ut
+### Så här ser blinket ut
 https://github.com/user-attachments/assets/590430d1-744c-4532-83ee-4f64718dce8a
 
 
